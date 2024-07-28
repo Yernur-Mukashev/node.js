@@ -1,0 +1,12 @@
+{
+  "name": "arithmetic_operators_math_package",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "start": "node ./index.js"
+  },
+  "keywords": [],
+  "author": "Yernur Mukashev",
+  "license": "ISC",
+  "description": ""
+}
